@@ -3,11 +3,11 @@
 Meister
 
 
-### Aufgabenstellung / Ziele
+# Aufgabenstellung / Ziele
 
 In diesem Projekt programmiere ich ein Spiel, bei dem der Nutzer eine Zahl erraten muss. Das Programm sagt nach jedem Versuch ob die geratene Zahl grösser oder kleiner ist als die gesuchte Zahl.
 
-# Anforderungen
+### Anforderungen
 1.	Der Computer speichert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl.
 2.	Der Benutzer kann Zahlen raten.
 3.	Für jede der geratenen Zahlen gibt der Computer einen Hinweis aus:
