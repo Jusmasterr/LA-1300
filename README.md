@@ -3,7 +3,7 @@
 Meister
 
 
-### Projekt
+### Aufgabenstellung / Ziele
 
 In diesem Projekt programmiere ich ein Spiel, bei dem der Nutzer eine Zahl erraten muss. Das Programm sagt nach jedem Versuch ob die geratene Zahl grösser oder kleiner ist als die gesuchte Zahl.
 
@@ -16,11 +16,16 @@ b.	Die geratene Zahl ist grösser als die Geheimzahl.
 c.	Die Geheimzahl wurde erraten.
 4.	Wenn die Geheimzahl erraten wurde, soll die Anzahl der Rateversuche ausgegeben werden.
 5.	Das Programm soll mit Fehleingaben umgehen oder sie vermeiden können.
-6.	Erweiterungen, die über diese Anforderungen hinausgehen, sind möglich und willkommen.
+6.	Das Programm zählt die Anzahl der gebrauchten Versuche um die Zahl zu erraten und gibt diese am Schluss aus.
+7.	Das Programm soll jeweils einen Ton für eine falsche Zahl und einen für eine richtige Zahl abspielen.
 
+# Ziele
+- Objektorientiertes Programmieren anwenden und vertiefen
+- Projekt effizient und organisiert erledigen
 
+### Produkt
 
-## Planen
+# Planen
 
 | Datum | Arbeitspacket | Zuständig                                             |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -28,29 +33,29 @@ c.	Die Geheimzahl wurde erraten.
 |  25.08.2023     | Realisieren |   Justus              |
 |  25.08.2023     | Testfallspezifikation |   Justus                      |
 |  1.08.2023     | Testen |   Justus                      |
+|  1.08.2023     | Reflexion / Auswertung |   Justus                      |
 
 
 
 
-### Testfälle
+
+# Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
 | ...  |              |         |                   |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 
-### Testprotokoll
+# Testprotokoll
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-## Auswerten
+### Reflexion / Auswertung
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
