@@ -11,9 +11,9 @@ In diesem Projekt programmiere ich ein Spiel, bei dem der Nutzer eine Zahl errat
 1.	Der Computer speichert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl.
 2.	Der Benutzer kann Zahlen raten.
 3.	Für jede der geratenen Zahlen gibt der Computer einen Hinweis aus:
-  a.	Die geratene Zahl ist niedriger als die Geheimzahl.
-  b.	Die geratene Zahl ist grösser als die Geheimzahl.
-  c.	Die Geheimzahl wurde erraten.
+a.	Die geratene Zahl ist niedriger als die Geheimzahl.
+b.	Die geratene Zahl ist grösser als die Geheimzahl.
+c.	Die Geheimzahl wurde erraten.
 4.	Wenn die Geheimzahl erraten wurde, soll die Anzahl der Rateversuche ausgegeben werden.
 5.	Das Programm soll mit Fehleingaben umgehen oder sie vermeiden können.
 6.	Erweiterungen, die über diese Anforderungen hinausgehen, sind möglich und willkommen.
