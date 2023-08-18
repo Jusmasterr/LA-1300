@@ -2,24 +2,33 @@
 
 Meister
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|   18.08.2023    | 0.0.1   | Planen |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
-
 
 ### Projekt
 
 In diesem Projekt programmiere ich ein Spiel, bei dem der Nutzer eine Zahl erraten muss. Das Programm sagt nach jedem Versuch ob die geratene Zahl grösser oder kleiner ist als die gesuchte Zahl.
 
+# Anforderungen
+1.	Der Computer speichert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl.
+2.	Der Benutzer kann Zahlen raten.
+3.	Für jede der geratenen Zahlen gibt der Computer einen Hinweis aus:
+  a.	Die geratene Zahl ist niedriger als die Geheimzahl.
+  b.	Die geratene Zahl ist grösser als die Geheimzahl.
+  c.	Die Geheimzahl wurde erraten.
+4.	Wenn die Geheimzahl erraten wurde, soll die Anzahl der Rateversuche ausgegeben werden.
+5.	Das Programm soll mit Fehleingaben umgehen oder sie vermeiden können.
+6.	Erweiterungen, die über diese Anforderungen hinausgehen, sind möglich und willkommen.
+
+
 
 ## Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| Datum | Arbeitspacket | Zuständig                                             |
+| ----- | ------- | ------------------------------------------------------------ |
+|   18.08.2023    | Planen  | Justus |
+|  25.08.2023     | Realisieren |   Justus              |
+|  25.08.2023     | Testfallspezifikation |   Justus                      |
+|  1.08.2023     | Testen |   Justus                      |
+
 
 
 
