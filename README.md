@@ -19,13 +19,13 @@ c.	Die Geheimzahl wurde erraten.
 6.	Das Programm zählt die Anzahl der gebrauchten Versuche um die Zahl zu erraten und gibt diese am Schluss aus.
 7.	Das Programm soll jeweils einen Ton für eine falsche Zahl und einen für eine richtige Zahl abspielen.
 
-# Ziele
+## Ziele
 - Objektorientiertes Programmieren anwenden und vertiefen
 - Projekt effizient und organisiert erledigen
 
-### Produkt
+# Produkt
 
-# Planen
+## Planen
 
 | Datum | Arbeitspacket | Zuständig                                             |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -39,7 +39,7 @@ c.	Die Geheimzahl wurde erraten.
 
 
 
-# Testfälle
+## Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
@@ -48,7 +48,7 @@ c.	Die Geheimzahl wurde erraten.
 
 
 
-# Testprotokoll
+## Testprotokoll
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
@@ -56,6 +56,6 @@ c.	Die Geheimzahl wurde erraten.
 | ...  |       |          |        |
 
 
-### Reflexion / Auswertung
+# Reflexion / Auswertung
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
