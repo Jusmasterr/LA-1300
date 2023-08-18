@@ -3,7 +3,7 @@
 Meister
 
 
-### Aufgabenstellung / Ziele
+# Aufgabenstellung / Ziele
 
 In diesem Projekt programmiere ich ein Spiel, bei dem der Nutzer eine Zahl erraten muss. Das Programm sagt nach jedem Versuch ob die geratene Zahl grösser oder kleiner ist als die gesuchte Zahl.
 
