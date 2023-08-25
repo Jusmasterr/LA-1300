@@ -16,8 +16,8 @@ b.	Die geratene Zahl ist grösser als die Geheimzahl.
 c.	Die Geheimzahl wurde erraten.
 4.	Wenn die Geheimzahl erraten wurde, soll die Anzahl der Rateversuche ausgegeben werden.
 5.	Das Programm soll mit Fehleingaben umgehen oder sie vermeiden können.
-6.	Das Programm zählt die Anzahl der gebrauchten Versuche um die Zahl zu erraten und gibt diese am Schluss aus.
-7.	Das Programm soll jeweils einen Ton für eine falsche Zahl und einen für eine richtige Zahl abspielen.
+6.	Wenn die Geheimzahl erraten wurde, soll der User entscheiden können ob er nochmal spielen möchte.
+7.	Der Highscore soll ausgegeben werden, wenn die Geheimzahl erraten wurde.
 
 ## Ziele
 - Objektorientiertes Programmieren anwenden und vertiefen
