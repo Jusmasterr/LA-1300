@@ -39,7 +39,7 @@ c.	Die Geheimzahl wurde erraten.
 
 
 
-## Testfälle
+## Testfallspezifikation
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
