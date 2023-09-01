@@ -54,8 +54,8 @@ c.	Die Geheimzahl wurde erraten.
 | 5.2  |    Abfrage für erneutes Spielen      |   13   |  "Invalid Input, try again"            |
 | 6.1  |  Zufallszahl erraten "Do you want to play again? (y/n)"        |   y   |     *erneutes Spiel"             |
 | 6.2  |  Zufallszahl erraten "Do you want to play again? (y/n)"        |   n   |     *Programm beendet"             |
-| 7.1  |  noch kein Highscore + 5 Versuche beim Raten + Geheimzahl erraten |  -  |     "Highscore: 5"          |
-| 7.2  |  vorheriger Highscore = 5 + Versuche beim Raten 4 + Geheimzahl erraten |  -  |     "Highscore: 4"          |
+| 7.1  |  noch kein Highscore, 5 Versuche beim Raten, Geheimzahl erraten |  -  |     "Highscore: 5"          |
+| 7.2  |  vorheriger Highscore = 5, Versuche beim Raten 4, Geheimzahl erraten |  -  |     "Highscore: 4"          |
 
 
 
@@ -66,8 +66,19 @@ c.	Die Geheimzahl wurde erraten.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  01.09.2023     |   Ok       |  Justus      |
+| 2.1  |  01.09.2023     |   Ok       |        |
+| 1.1  |  01.09.2023     |          |        |
+| 1.1  |  01.09.2023     |          |        |
+| 1.1  |  01.09.2023     |          |        |
+| 1.1  |  01.09.2023     |          |        |
+| 1.1  |  01.09.2023     |          |        |
+| 1.1  |  01.09.2023     |          |        |
+| 1.1  |  01.09.2023     |          |        |
+| 1.1  |  01.09.2023     |          |        |
+| 1.1  |  01.09.2023     |          |        |
+| 1.1  |  01.09.2023     |          |        |
+| 1.1  |  01.09.2023     |          |        |
 
 
 # Reflexion / Auswertung
