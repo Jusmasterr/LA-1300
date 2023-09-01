@@ -20,8 +20,8 @@ c.	Die Geheimzahl wurde erraten.
 7.	Der Highscore soll ausgegeben werden, wenn die Geheimzahl erraten wurde.
 
 ## Ziele
-- Objektorientiertes Programmieren anwenden und vertiefen
-- Projekt effizient und organisiert erledigen
+- Ich wende Objektorientiertes Programmieren an
+- Die Ausgabe des Programms in der Konsole schön und übersichtlich gestalten
 
 # Produkt
 
