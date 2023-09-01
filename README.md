@@ -58,10 +58,6 @@ c.	Die Geheimzahl wurde erraten.
 | 7.2  |  vorheriger Highscore = 5, Versuche beim Raten 4, Geheimzahl erraten |  -  |     "Highscore: 4"          |
 
 
-
-
-
-
 ## Testprotokoll
 
 | TC-№ | Datum | Resultat | Tester |
