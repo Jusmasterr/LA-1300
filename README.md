@@ -52,7 +52,12 @@ c.	Die Geheimzahl wurde erraten.
 | 4.2  |   Nummer nach 10 Versuchen erraten       |   -   | "You guessed the number after 10 attempts!"                 |
 | 5.1  |    Programm gestartet      |   "Hello World"   | "Invalid Input, try again"                 |
 | 5.2  |    Abfrage für erneutes Spielen      |   13   |  "Invalid Input, try again"            |
-| 6.1  |  Zufallszahl erraten "Do you want to play again? (y|n)"        |      |                  |
+| 6.1  |  Zufallszahl erraten "Do you want to play again? (y/n)"        |   y   |     *erneutes Spiel"             |
+| 6.2  |  Zufallszahl erraten "Do you want to play again? (y/n)"        |   n   |     *Programm beendet"             |
+| 7.1  |  noch kein Highscore + 5 Versuche beim Raten + Geheimzahl erraten |  -  |     "Highscore: 5"          |
+| 7.2  |  vorheriger Highscore = 5 + Versuche beim Raten 4 + Geheimzahl erraten |  -  |     "Highscore: 4"          |
+
+
 
 
 
