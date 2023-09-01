@@ -43,8 +43,17 @@ c.	Die Geheimzahl wurde erraten.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |   Programm gestartet           |    -     |         -         |
+| 2.1 |  Programm gestartet            |    5     |    -           |
+| 3.1 |    Zufallszahl ist 10          |    5     |    "The number is bigger"              |
+|3.2 |      Zufallszahl ist 10        |    15     |    "The number is smaller"               |
+|3.3   |    Zufallszahl ist 10      |  10    |     "You guessed the number"            |
+| 4.1  |    Nummer nach 1 Versuch erraten      |  -    |  "You guessed the number after 1 attempt!"                |
+| 4.2  |   Nummer nach 10 Versuchen erraten       |   -   | "You guessed the number after 10 attempts!"                 |
+| 5.1  |    Programm gestartet      |   "Hello World"   | "Invalid Input, try again"                 |
+| 5.2  |    Abfrage für erneutes Spielen      |   13   |  "Invalid Input, try again"            |
+| 6.1  |  Zufallszahl erraten "Do you want to play again? (y|n)"        |      |                  |
+
 
 
 
